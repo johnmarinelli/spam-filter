@@ -1,0 +1,8 @@
+*.pyc
+bin
+lib
+include
+local
+pip-selfcheck.json
+spam_ham.sqlite3
+tutorial.py
